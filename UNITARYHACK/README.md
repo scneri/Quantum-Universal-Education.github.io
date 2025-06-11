@@ -1,7 +1,7 @@
 ## Autor
 
 [scneri](https://github.com/scneri) <br>  
-[jacob7598](https://github.com/jacob7598) <br>  
+[jacobg7598](https://github.com/jacobg7598) <br>  
 
 ## References, commercial use allowed
 
